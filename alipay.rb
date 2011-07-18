@@ -1,3 +1,4 @@
+#支付宝接口类。
 require 'md5'
 require 'uri'
 
